@@ -1,3 +1,4 @@
+https://github.com/rcardher/Examen-parcial-Roberto-Cardenas.git
 Parte 2: Problemas de Codificación (70 puntos en total)
 Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
 Escribe un programa en C++ que solicite al usuario ingresar un número entero. El programa deberá analizar el número ingresado e imprimir en pantalla si el número es "positivo", "negativo" o "cero". 
