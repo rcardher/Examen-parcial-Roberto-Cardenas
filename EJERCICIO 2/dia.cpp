@@ -1,7 +1,7 @@
 //
 // Created by Roberto C on 5/11/24.
 //
-
+//Incluimos la funcion para obtener el numero y una prueba switch con case par vales cubiertos y default para valores que desconocemos
 #include "dia.h"
 
 std::string obtenerDiaSemana(int dia) {
