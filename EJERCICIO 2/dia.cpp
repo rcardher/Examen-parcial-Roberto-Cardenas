@@ -16,4 +16,4 @@ std::string obtenerDiaSemana(int dia) {
         default: return "Número inválido. Ingrese un número del 1 al 7.";
     }
 }
-
+//Fuente:Chat Gpt

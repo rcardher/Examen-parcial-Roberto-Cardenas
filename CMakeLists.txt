@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 include_directories("EJERCICIO 1")
 include_directories("EJERCICIO 2")
+include_directories("EJERCICIO 3")
 
 add_executable(Examen_parcial_Roberto_Cardenas
     "EJERCICIO 1/numero.cpp"
@@ -13,4 +14,7 @@ add_executable(Examen_parcial_Roberto_Cardenas
     main.cpp
     main.h
         "EJERCICIO 2/dia.h"
-        "EJERCICIO 2/dia.cpp")
+        "EJERCICIO 2/dia.cpp"
+        "EJERCICIO 3/calificaciones.h"
+        "EJERCICIO 3/calificaciones.cpp")
+

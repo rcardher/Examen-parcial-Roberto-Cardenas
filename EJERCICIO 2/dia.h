@@ -12,7 +12,7 @@ std::string obtenerDiaSemana(int dia);
 
 #endif // DIA_H
 
-
+//Fuente:ChatGPT
 
 
 
