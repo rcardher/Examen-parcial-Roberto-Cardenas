@@ -11,4 +11,4 @@
 std::string analizarNumero(int numero);
 
 #endif // NUMERO_H
-
+//Fuente:Chat GPT

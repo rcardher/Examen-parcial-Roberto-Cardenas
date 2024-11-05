@@ -14,4 +14,4 @@ std::string analizarNumero(int numero) {
         return "El número es cero.";
     }
 }
-
+//Fuente:Chat GPT
